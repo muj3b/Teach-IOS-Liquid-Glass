@@ -1,8 +1,6 @@
-# ██████████████████████████████████████████████████████████████
 # APPLE iOS 26 — LIQUID GLASS: COMPLETE ZERO-TO-MASTERY TEACHING PROMPT
 # Copy everything below this line and paste it into any AI coder.
 # That AI will know EVERYTHING about Liquid Glass after reading this.
-# ██████████████████████████████████████████████████████████████
 
 ---
 
